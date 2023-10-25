@@ -1,0 +1,6 @@
+Bhargavi,class1
+Pushpa, class2
+kalyani,class3
+chelsy,class4
+pallavi,class5
+vasu,class6
